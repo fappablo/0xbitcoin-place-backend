@@ -1,0 +1,13 @@
+{
+  "name": "0xbitcoin-place-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fappablo/0xbitcoin-place-backend.git",
+  "author": "Fappablo <thefappachannelita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ethersproject/contracts": "^5.7.0",
+    "@ethersproject/providers": "^5.7.2",
+    "jszip": "^3.10.1"
+  }
+}
